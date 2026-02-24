@@ -1,5 +1,4 @@
 streamlit
-streamlit-highcharts
-highcharts-core
+plotly
 pandas
 numpy
